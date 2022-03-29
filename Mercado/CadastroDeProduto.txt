@@ -1,0 +1,4 @@
+Produto, Categoria = y, Nome = h,Marca= , Preço= 4.0
+Produto, Categoria = Higiene Pessoal, Nome = gh,Marca= , Preço= 6.0
+Produto, Categoria = Alimento, Nome = df,Marca= fdg, Preço= 4.0
+Produto, Categoria = Limpeza, Nome = rty,Marca= 456, Preço= 6.0

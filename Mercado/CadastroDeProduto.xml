@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<produtos>
+    <Produto id="1">
+        <Nome>h</Nome>
+        <Categoria>y</Categoria>
+        <Marca>
+            <NomeMarca/>
+            <Preco>4.0</Preco>
+        </Marca>
+    </Produto>
+    <Produto id="1">
+        <Nome>gh</Nome>
+        <Categoria>Higiene Pessoal</Categoria>
+        <Marca>
+            <NomeMarca/>
+            <Preco>6.0</Preco>
+        </Marca>
+    </Produto>
+    <Produto id="1">
+        <Nome>df</Nome>
+        <Categoria>Alimento</Categoria>
+        <Marca>
+            <NomeMarca>fdg</NomeMarca>
+            <Preco>4.0</Preco>
+        </Marca>
+    </Produto>
+    <Produto id="1">
+        <Nome>rty</Nome>
+        <Categoria>Limpeza</Categoria>
+        <Marca>
+            <NomeMarca>456</NomeMarca>
+            <Preco>6.0</Preco>
+        </Marca>
+    </Produto>
+</produtos>
